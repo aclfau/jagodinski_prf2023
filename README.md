@@ -12,7 +12,7 @@ Near-wall regions in wall-bounded turbulent flows experience intermittent ejecti
 
 [3DCNN_model.py](3DCNN_model.py): For creating the network architecture based on the hyperparameters dictionary and architecture sizes dictionary.
 
-[multi-layer_GradCAM.py](multi-layer_GradCAM.py): Using the keras visualization library to create the functions for generating the GradCAM map and visualizing against a test data point.
+[multi-layer_GradCAM.py](multiLayer_GradCAM.py): Using the keras visualization library to create the functions for generating the GradCAM map and visualizing against a test data point.
 
 # Training
 
