@@ -1,0 +1,17 @@
+{
+"comment": "Hyperparameters to be used for training the CNN",
+"activation": "relu",
+"kernel_init": "he_uniform",
+"bias_init": "zeros",
+"padding": "same",
+"loss_func": "mean_squared_error",
+"kernel_size": 3,
+"pool_size": 2,
+"dropout": 0.5,
+"decay": 0.0001,
+"momentum": 0,
+"kernel_regularizer": 0.01,
+"learning_rate": 0.0001,
+"batch_size": 5,
+"epochs": 60
+}
